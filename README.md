@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning how to work with GitHub and his benefits :)
+
 <!--
 **DevEmbou01/DevEmbou01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
